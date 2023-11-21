@@ -132,10 +132,6 @@ python3 main.py
 #### CUSTOM_STATS
 
 * `{uptime}` - Bot Uptime
-
-
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
